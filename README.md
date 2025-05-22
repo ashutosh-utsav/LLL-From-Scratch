@@ -1,7 +1,5 @@
 # Large Language Model from Scratch (GPT)
 
-This repository contains the code for building a Large Language Model (LLM) from scratch, following the tutorial "Create a Large Language Model from Scratch with Python" by Elia Arleds on freeCodeCamp.org.
-
 The goal of this project is to **gain a deep understanding of how LLMs work** by building one from the ground up, focusing on **data handling, math, and the transformer architecture** .
 
 
