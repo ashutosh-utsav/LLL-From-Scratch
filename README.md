@@ -7,7 +7,7 @@ The goal of this project is to **gain a deep understanding of how LLMs work** by
 
 ## Features & Concepts Covered
 
-*   **Building from Scratch:** Implementing core components of an LLM [1].
+*   **Building from Scratch:** Implementing core components of an LLM .
 *   **Local Computation:** The project uses local computation and **does not require paid datasets or cloud computing**.
 *   **Bigram Language Model:** Starting with a simpler model to understand fundamental concepts.
 *   **Data Handling:** Processing and managing text data. Initial examples use small datasets like the 100Year of solitude. 
